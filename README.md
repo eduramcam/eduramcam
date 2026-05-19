@@ -10,7 +10,7 @@ My goal is to use that experience to help people and organizations digitize thei
 ## Education
 
 ### Bachelor's Degree in Computer Engineering
-- **IPN - ESIME** 
+- **IPN - ESIME** (2002 - 2006)
 
 ---
 
