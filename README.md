@@ -23,15 +23,24 @@ My goal is to use that experience to help people and organizations digitize thei
 
 ## Technical Training
 
+- **Curso de Java Spring** Platzi (2026)
+- **Curso de OAuth 2.0 y OpenID Connect: Flujos de Autenticación y Casos de Estudio** Platzi (2026)
+- **Curso de Backend con NestJS** Platzi (2026)
+- **Curso+de+Git+y+GitHub** Platzi (2026)
+- **Curso de GraphQL con Node.js** Platzi (2026)
+- **Curso de Introducción a la Terminal y Línea de Comandos** Platzi (2026)
+- **Curso de OWASP Top 10: Riesgos en Aplicaciones** Platzi (2026)
+- **Curso de API REST con Javascript​: Performance y Usabilidad** Platzi (2026)
+- **Curso de Unit Testing en Python** Platzi (2026)
+- **Curso de Despliegue de Aplicaciones Python en la Nube** Platzi (2026)
+- **Curso de Automatización de Pruebas UI con Cypress** Platzi (2026)
+- **Curso de Go Avanzado: Arquitectura de Eventos y CQRS** Platzi (2026)
 - **Enterprise Architecture** (2018)
 - **RedHat OpenShift, Jenkins, DevOps** — Udemy (2018)
 - **Writing Skills** — Harvard Manage Mentor (2018)
 - **Design Thinking Workshop** — AT&T (2017)
 - **Web Components** — KRITERIAL (2017)
 - **Java SE 8 Programmer Update** — KRITERIAL (2016)
-- **BRMS Business Rule Management System** — NEORIS (2009)
-- **Java Programmer Training (Java 6)** — CENTRO NETEC (2008)
-- **Java, XML Technologies, and J2EE Web Services** — Meltsan Solutions (2006)
 
 ---
 
