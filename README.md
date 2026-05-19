@@ -1,6 +1,5 @@
-# Computer Engineer
+# IPN ESIME - Computer Engineer
 
-**IPN - ESIME**
 
 ## Professional Objective
 
