@@ -4,7 +4,7 @@
 
 ## Professional Objective
 
-To lead change and continuously grow both professionally and personally, while inspiring teams to deliver creative, innovative, and high-impact IT solutions.
+With more than 20 years of experience developing systems for large corporations and contributing to internationally impactful projects, my goal is to use that experience to help people and organizations digitize their businesses, optimize processes, and leverage technology, automation, and artificial intelligence to drive growth and create value. Throughout my career, I have led international teams, coordinating strategic initiatives and reporting progress and results to executive leadership.
 
 ---
 
