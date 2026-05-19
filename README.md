@@ -49,21 +49,11 @@ My goal is to use that experience to help people and organizations digitize thei
 
 ## Professional Summary
 
-I am a Computer Engineer with **13 years of experience** delivering enterprise solutions using **JEE technologies**. Throughout my career, I have designed, developed, and implemented innovative IT solutions for a wide range of industries, including:
+Professional with over 20 years of experience in systems development, technology leadership, and cybersecurity, with a strong background across industries such as telecommunications, banking, tourism, insurance, and automotive. I have held roles as a developer, technical lead, architect, and manager, combining a solid technical foundation with a strategic vision focused on innovation, operational efficiency, and technology transformation.
 
-- Banking
-- Tourism
-- Insurance
-- Healthcare
-- Automotive
-- Telecommunications
+I have led international teams of more than 20 people in global projects, collaborating with professionals from India, Malaysia, the United States, Mexico, Colombia, and Spain. My experience includes the design and implementation of inventory systems, sales platforms, and cybersecurity controls, as well as process automation and modernization initiatives, achieving results such as a 30% reduction in sales process times and an 80% reduction in manual system queries.
 
-During the first **4 years** of my career, I worked as a software developer, building a strong technical foundation.  
-Later, I spent **3 years** in code quality, where I strengthened my skills in planning, leadership, and communication.  
-For the past **6 years**, I have focused on developing my leadership capabilities, guiding teams, and driving results in complex environments.
-
-I am passionate about leading change, empowering teams, and creating value through technology, collaboration, and continuous improvement.
-
+Currently, I focus on technology leadership, cybersecurity innovation, and the development of business solutions, leveraging technologies such as Java, React, Angular, Cloud, APIs, DevOps, MLOps, ASTRA, Fortify, and SIEM, while also promoting the strategic use of artificial intelligence to create more efficient, high-impact solutions.
 ---
 
 ## Core Skills
