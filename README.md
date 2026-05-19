@@ -54,6 +54,7 @@ Professional with over 20 years of experience in systems development, technology
 I have led international teams of more than 20 people in global projects, collaborating with professionals from India, Malaysia, the United States, Mexico, Colombia, and Spain. My experience includes the design and implementation of inventory systems, sales platforms, and cybersecurity controls, as well as process automation and modernization initiatives, achieving results such as a 30% reduction in sales process times and an 80% reduction in manual system queries.
 
 Currently, I focus on technology leadership, cybersecurity innovation, and the development of business solutions, leveraging technologies such as Java, React, Angular, Cloud, APIs, DevOps, MLOps, ASTRA, Fortify, and SIEM, while also promoting the strategic use of artificial intelligence to create more efficient, high-impact solutions.
+
 ---
 
 ## Core Skills
