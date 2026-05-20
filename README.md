@@ -39,25 +39,29 @@ Professional with over 20 years of experience in systems development, technology
 <br>
 
 🌐 Socials:<br>
-<p align="center">
-   <a href="##" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg" alt="Canal de Twitch de midudev" height="28px" width="56px" />
+<p align="left">
+   <a href="https://www.linkedin.com/in/eduramcamli/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg" alt="Linked in Eduardo Ramirez Camacho" height="28px" width="56px" />
+  </a>
+   <span style="width: 8px;"> </span>
+   <a href="https://www.facebook.com/share/1CL4zQcnfo/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Facebook.svg" alt="Facebook eduramcam" height="23px" width="33px" />
   </a>
   <span style="width: 8px;"> </span>
    <a href="##" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="midudev" height="23px" width="33px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="Canal de youtube eduramcam" height="23px" width="33px" />
+  </a>
+  <span style="width: 8px;"> </span>
+  <a href="https://www.instangram.com/eduramcam?igsh=N29icjhjanlrdW1q" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instangram eduramcam" height="23px" width="23px" />
   </a>
   <span style="width: 8px;"> </span>
   <a href="##" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Canal de Instagram de midu.dev" height="23px" width="23px" />
-  </a>
-  <span style="width: 8px;"> </span>
-  <a href="##" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Canal de Twitter de midudev" height="23px" width="28px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Canal de Twitter de eduramcam" height="23px" width="28px" />
   </a>
 </p>
 
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
+
 
 
 
